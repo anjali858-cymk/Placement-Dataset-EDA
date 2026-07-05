@@ -129,12 +129,7 @@ Placement-Dataset-EDA/
 ├── placement.csv
 ├── requirements.txt
 ├── LICENSE
-│
-└── images/
-      ├── correlation_heatmap.png
-      ├── placement_distribution.png
-      ├── salary_distribution.png
-      └── ...
+
 ```
 
 ---
